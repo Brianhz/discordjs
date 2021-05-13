@@ -1,0 +1,23 @@
+{
+  "name": "dis_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "bot": "^0.0.3",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.13",
+    "dotenv": "^9.0.0",
+    "git": "^0.1.5",
+    "node-fetch": "^2.6.1",
+    "node.js": "*",
+    "url": "^0.11.0"
+  }
+}
